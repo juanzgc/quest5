@@ -1,0 +1,19 @@
+{
+  "name": "mongo-express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^2.6.2",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "mongoose": "^5.7.11",
+    "monk": "^7.1.1",
+    "morgan": "~1.9.1",
+    "socket.io": "^2.3.0"
+  }
+}
